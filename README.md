@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @PreranaAm
-- 👀 I’m interested in Full stack web development
-- 🌱 I’m currently learning Frontend development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me through likendin Prerana A M
+# 👋 Hi, I’m Prerana A M
 
-<!---
-PreranaAm/PreranaAm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+- 👀 I’m interested in Full Stack Web Development  
+- 🌱 I’m currently learning Frontend Development (HTML, CSS, JavaScript, React)  
+- 💡 I’m exploring Backend Technologies like Node.js and MongoDB  
+- 🤝 I’m looking to collaborate on open-source projects and web applications  
+- 📫 How to reach me: [LinkedIn - Prerana A M](https://www.linkedin.com/in/prerana-a-m)  
+
+🚀 Let's build something amazing together!
+
 --->
